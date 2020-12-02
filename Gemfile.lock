@@ -17,10 +17,12 @@ GEM
       ffi (>= 0.5.0)
     rerun (0.8.1)
       listen (>= 1.0.3)
-    ruby_on_daves (0.0.5)
+    ruby_on_daves (0.0.6)
       erubis (~> 2.7)
       multi_json (~> 1.15)
       rack (~> 2.2)
+      sqlite3 (~> 1.4.2)
+    sqlite3 (1.4.2)
 
 PLATFORMS
   ruby
